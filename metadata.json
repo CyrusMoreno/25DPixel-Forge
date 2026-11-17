@@ -1,0 +1,6 @@
+{
+  "name": "IsoPixel Forge",
+  "description": "Procedural isometric pixel-art tilemap and 8-direction animated spritesheet generator with transparent PNG export and GameMaker, Godot, and AGK Studio manifests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
